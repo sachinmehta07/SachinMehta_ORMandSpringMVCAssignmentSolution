@@ -6,6 +6,8 @@ developing CRUD(Create Read Update Delete) functionality.
 
 → The main page will display all the customers present in the database.
 → Customers will have following attributes
+
+
 a) First Name
 b) Last Name
 c) Email
