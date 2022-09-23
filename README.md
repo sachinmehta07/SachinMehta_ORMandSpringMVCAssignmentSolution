@@ -2,13 +2,14 @@
 
 Customer Relationship Management web application,
 
-Developing CRUD(Create Read Update Delete) functionality in Customer Relationship Management web application Using 
+CRUD(Create Read Update Delete) functionality in Customer Relationship Management web application Using These Technology
 
 -MVC
 -Spring
 -ORM
 -Hibernate
--DB MySql
+-DB MySqlWorkbench
+-Eclips : Java 
 
 → The main page will display all the customers present in the database.
 → Customers will have following attributes
